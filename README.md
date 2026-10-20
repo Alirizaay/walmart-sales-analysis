@@ -104,3 +104,10 @@ Grafikler, çalışma klasöründeki `grafikler` alt klasörüne kaydedilir.
   kaydı bulunan departmanlar kullanılmıştır.
 - Veri 2010 ve 2012 yıllarının tamamını kapsamaz.
 - Karşılaştırmalar nedensellik veya kârlılık göstermez.
+
+
+- - [Power BI raporunu indir](Walmart_Dashboard.pbix)
+
+Power BI raporu, Power BI Desktop ile açılabilir.
+Veri yenilemek için SQL Server bağlantısı kendi ortamınıza göre
+düzenlenmeli ve gerekli tablolar ile görünüm hazırlanmalıdır.
